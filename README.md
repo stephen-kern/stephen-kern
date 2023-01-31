@@ -17,12 +17,12 @@ Graduate from Washington University St. Louis Full Stack Coding Bootcamp
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-[![Linkedin](https://www.linkedin.com/stephenkern96)
+![Linkedin](https://www.linkedin.com/stephenkern96)
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React
 - 💬 Ask me anything!
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: stephenkern96@gmail.com
+- ⚡ Fun fact: I love to make homemade pickles!
 
 
 
