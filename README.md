@@ -26,4 +26,4 @@ Graduate from Washington University St. Louis Full Stack Coding Bootcamp
 
 
 
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-kern)](https://github.com/anuraghazra/github-readme-stats)
+[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-kern&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
