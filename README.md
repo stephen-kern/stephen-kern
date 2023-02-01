@@ -30,8 +30,6 @@ I am Stephen, a graduate from Washington University St. Louis Full Stack Coding 
 
 - 📫 How to reach me: 
 
-</br>
-
 - Gmail: stephenkern96@gmail.com
 - Github: [Stephen's Github](https://github.com/stephen-kern/)
 - ![Linkedin](https://www.linkedin.com/stephenkern96)
