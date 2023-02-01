@@ -1,4 +1,4 @@
-### Thanks for visiting this page!
+### Thanks for visiting my page!
 
 </br>
 
@@ -37,4 +37,5 @@ I am Stephen, a graduate from Washington University St. Louis Full Stack Coding 
 </br>
 
 ![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-kern&show_icons=true&theme=dark)
+</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-kern&layout=compact&langs_count=5)
