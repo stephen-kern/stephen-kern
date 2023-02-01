@@ -21,10 +21,11 @@ I am Stephen, a graduate from Washington University St. Louis Full Stack Coding 
 - ⚡ Fun fact: I love to make homemade pickles!
 
 - 📫 How to reach me: 
+
 - Gmail: stephenkern96@gmail.com
 - Github: [Stephen's Github](https://github.com/stephen-kern/)
 - ![Linkedin](https://www.linkedin.com/stephenkern96)
 
 
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-kern&show_icons=true&theme=dark)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-kern&layout=compact&langs_count=5)]
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-kern&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-kern&layout=compact&langs_count=5)
