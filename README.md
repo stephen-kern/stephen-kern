@@ -24,7 +24,7 @@ I am Stephen, a graduate from Washington University St. Louis Full Stack Coding 
 
 - 🌱 I’m currently learning React
 - 💬 Ask me anything!
-- ⚡ Fun fact: I love to make homemade pickles!
+- ⚡ Fun fact: I have never broken a bone!
 
 </br>
 
