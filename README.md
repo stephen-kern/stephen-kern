@@ -2,7 +2,15 @@
 
 </br>
 
-I am Stephen, a graduate from Washington University St. Louis Full Stack Coding Bootcamp!
+I first discovered web development through a networking class that I took while enrolled in college. It was during this class that I had the opportunity to meet a software developer who would go on to become a pivotal figure in my career. His words of encouragement inspired me to make the switch to the software world, and I have never looked back.
+
+After graduating from Lewis & Clark Community College with an Associates degree in Web Design & Development in December 2021, I decided to continue my education and enrolled in the Washington University in St. Louis Full Stack Coding Bootcamp. During my time in the bootcamp, I studied a wide range of topics, including HTML5, CSS3, JavaScript, jQuery, Express.js, React.js, Node.js, Progressive Web Apps, Database Theory, MongoDB, MySQL, Git, and more. I worked hard and graduated in December 2022 with a newfound confidence in my skills as a web developer.
+
+Looking ahead, I am eager to continue exploring the world of web development. While I have already gained experience with many front-end frameworks and libraries, I am excited to spend more time with back-end technologies as well. There is always more to learn and new challenges to tackle, and I am eager to see where my career will take me.
+
+In my free time, I enjoy a wide range of hobbies and interests. I am an avid puzzle solver and enjoy playing board games with friends. I love traveling to new places and exploring different cuisines. Music and art are also passions of mine, and I enjoy exploring different genres and styles.
+
+My journey to becoming a web developer has been a fulfilling and rewarding one. I am excited to continue growing and expanding my skills in this field, and I am grateful for all of the experiences and opportunities that have brought me to where I am today!
 
 </br>
 
@@ -22,7 +30,7 @@ I am Stephen, a graduate from Washington University St. Louis Full Stack Coding 
 
 </br>
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React!
 - 💬 Ask me anything!
 - ⚡ Fun fact: I have never broken a bone!
 
