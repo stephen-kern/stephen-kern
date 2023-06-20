@@ -2,15 +2,11 @@
 
 </br>
 
-I first discovered web development through a networking class that I took while enrolled in college. It was during this class that I had the opportunity to meet a software developer who would go on to become a pivotal figure in my career. His words of encouragement inspired me to make the switch to the software world, and I have never looked back.
+I started my web development journey during community college when I took a networking class and had the fortune of meeting a software developer. Their stories inspired me and sparked my interest in beginning a career path into Web Development. 
 
-After graduating from Lewis & Clark Community College with an Associates degree in Web Design & Development in December 2021, I decided to continue my education and enrolled in the Washington University in St. Louis Full Stack Coding Bootcamp. During my time in the bootcamp, I studied a wide range of topics, including HTML5, CSS3, JavaScript, jQuery, Express.js, React.js, Node.js, Progressive Web Apps, Database Theory, MongoDB, MySQL, Git, and more. I worked hard and graduated in December 2022 with a newfound confidence in my skills as a web developer.
+Equipped with an Associate's degree in Web Design & Development from Lewis & Clark Community College, I continued to advance my education by enrolling in the Washington University St. Louis Full Stack Coding Bootcamp. There, I jumped into a wide range of topics, furthering my knowledge of HTML5, CSS3, JavaScript, and jQuery, while also studying new languages and skills such as Git, REST APIs, Node, Express, SQL, MongoDB, and React. Graduating with newfound confidence in my web development abilities in December 2022, I'm eager to continue learning and gain experience.
 
-Looking ahead, I am eager to continue exploring the world of web development. While I have already gained experience with many front-end frameworks and libraries, I am excited to spend more time with back-end technologies as well. There is always more to learn and new challenges to tackle, and I am eager to see where my career will take me.
-
-In my free time, I enjoy a wide range of hobbies and interests. I am an avid puzzle solver and enjoy playing board games with friends. I love traveling to new places and exploring different cuisines. Music and art are also passions of mine, and I enjoy exploring different genres and styles.
-
-My journey to becoming a web developer has been a fulfilling and rewarding one. I am excited to continue growing and expanding my skills in this field, and I am grateful for all of the experiences and opportunities that have brought me to where I am today!
+My journey to becoming a Front-End Web Developer has been fulfilling and rewarding. I am a lifelong learner and embrace new opportunities. I am grateful for the experiences, opportunities, and help that I have along the way.
 
 </br>
 
@@ -41,6 +37,7 @@ My journey to becoming a web developer has been a fulfilling and rewarding one. 
 - Gmail: stephenkern96@gmail.com
 - Github: [Stephen's Github](https://github.com/stephen-kern/)
 - ![Linkedin](https://www.linkedin.com/stephenkern96)
+- Check out my ![website](https://www.stephenkern.dev)!
 
 </br>
 
