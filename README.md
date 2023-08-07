@@ -26,7 +26,7 @@ My journey to becoming a Front-End Web Developer has been fulfilling and rewardi
 
 </br>
 
-- 🌱 I’m currently learning React and React Native!
+- 🌱 I’m currently learning React!
 - 💬 Ask me anything!
 - ⚡ Fun fact: I have never broken a bone!
 - 🛹 I've been skateboarding for 15+ years!
