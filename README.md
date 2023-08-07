@@ -38,7 +38,7 @@ My journey to becoming a Front-End Web Developer has been fulfilling and rewardi
 - Gmail: stephenkern96@gmail.com
 - Github: [Stephen's Github](https://github.com/stephen-kern/)
 - LinkedIn: ![Linkedin](https://www.linkedin.com/stephenkern96)
-- Check out my ![website](https://www.stephenkern.dev)!
+- Check out my [website](https://www.stephenkern.dev)!
 
 </br>
 
