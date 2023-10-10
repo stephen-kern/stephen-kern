@@ -26,11 +26,11 @@ My journey to becoming a Front-End Web Developer has been fulfilling and rewardi
 
 </br>
 
-- 🌱 I’m currently learning React!
+- 🌱 I’m currently learning Next.js, Typescript, and Tailwind!
 - 💬 Ask me anything!
 - ⚡ Fun fact: I have never broken a bone!
 - 🛹 I've been skateboarding for 15+ years!
-- 🌲 I love to travel, explore nature, and swim!
+- 🌲 I love to travel, hike, and swim!
 </br>
 
 - 📫 How to reach me: 
