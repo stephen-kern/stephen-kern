@@ -18,7 +18,7 @@
 
 </br>
 
-- 🌱 Currently, my primary focus is Joomla web development for Enertech Global.
+- 🌱 Currently, my primary focus is Joomla and WordPress development for Enertech Global.
 - 💬 Ask me anything!
 - ⚡ Fun fact: I have never broken a bone!
 - 🛹 I've been skateboarding for 15+ years!
